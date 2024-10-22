@@ -1,4 +1,4 @@
-package zefir
+package app
 import "core:fmt"
 import foundation "core:sys/darwin/Foundation"
 import Metal "vendor:darwin/Metal"
